@@ -1,6 +1,6 @@
 ### Hi, I'm Delcimario 👋
 
-- 💻 I'm a fullstack developer
+- 💻 I'm a fullstack Javascript developer
 - 🔭 I’m currently working on TypeScript/Nodejs
 - 🌱 I’m currently learning Dart/Flutter
 
