@@ -1,7 +1,7 @@
 ### Hi, I'm Delcimario 👋
 
 - 💻 I'm a fullstack developer
-- 🔭 I’m currently working on JavaScript/Nodejs
+- 🔭 I’m currently working on TypeScript/Nodejs
 - 🌱 I’m currently learning Dart/Flutter
 
 <p>
