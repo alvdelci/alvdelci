@@ -5,7 +5,9 @@
 - 🌱 I’m currently learning Dart/Flutter
 
 <p>
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=alvdelci&show_icons=true&hide_border=false&line_height=20&title_color=#B22222icon_color=#B22222&show_owner=true"/>
+  
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alvdelci&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvdelci&layout=compact&langs_count=7&theme=dracula"/>
     <p> 
       <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
       <img src="https://img.shields.io/badge/Javascript-FCC624?style=for-the-badge&logo=javascript&logoColor=grey"/>
