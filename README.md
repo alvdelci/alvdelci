@@ -10,7 +10,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvdelci&layout=compact&langs_count=7&theme=dracula"/>
     <p> 
       <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Javascript-FCC624?style=for-the-badge&logo=javascript&logoColor=grey"/>
+      <img src="https://img.shields.io/badge/Javascript-FCC624?style=for-the-badge&logo=javascript&logoColor=white"/>
       <img src="https://img.shields.io/badge/Typescript-0078D4?style=for-the-badge&logo=typescript&logoColor=white"/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
