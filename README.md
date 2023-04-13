@@ -1,4 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alvdelci&color=563D7C" alt="Profile views" /> </p>
 ### Hi, I'm Delcimario 👋
 
 - 💻 I'm a fullstack Javascript developer
