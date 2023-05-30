@@ -24,11 +24,11 @@
       <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
       <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
       <img src="https://img.shields.io/badge/MongoDB-08540C?style=for-the-badge&logo=mongodb&logoColor=white"/>
       <img src="https://img.shields.io/badge/MySQL-FCC624?style=for-the-badge&logo=mysql&logoColor=black"/>
       <img src="https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=blue"/>
       <img src="https://img.shields.io/badge/prisma-563D7C?style=for-the-badge&logo=prisma&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
       <img src="https://img.shields.io/badge/Docker-1572B6?style=for-the-badge&logo=docker&logoColor=white"/>
     </p>
   </p>
@@ -37,10 +37,15 @@
   
 ### Contact with me 📝
   
+<!--
 <a href="https://instagram.com/alv_delci" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-d6004a?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
+-->
 <a href="https://www.linkedin.com/in/alvdelci/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+  <div>
+  <img src="https://img.shields.io/badge/delcimarioalvesdev@gmail.com-e64c4c?style=for-the-badge&logo=gmail&logoColor=white" />
+</div>
 
