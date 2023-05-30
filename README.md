@@ -2,7 +2,7 @@
 
 - 💻 I'm a fullstack Javascript developer
 - 🔭 I’m currently working on Typescript, Node.js and ReactJS
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning Vue.js
 
 <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 
@@ -13,6 +13,7 @@
     <p> 
       <!--<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>-->
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Vue-339933?style=for-the-badge&logo=vue.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/Javascript-FCC624?style=for-the-badge&logo=javascript&logoColor=gray"/>
@@ -24,9 +25,11 @@
       <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MySQL-FCC624?style=for-the-badge&logo=mysql&logoColor=black"/>
       <img src="https://img.shields.io/badge/MongoDB-08540C?style=for-the-badge&logo=mongodb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-FCC624?style=for-the-badge&logo=mysql&logoColor=black"/>
       <img src="https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=blue"/>
+      <img src="https://img.shields.io/badge/prisma-563D7C?style=for-the-badge&logo=prisma&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-1572B6?style=for-the-badge&logo=docker&logoColor=white"/>
     </p>
   </p>
 <p>
