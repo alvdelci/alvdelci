@@ -40,7 +40,7 @@
 <p>
 
   
-### Contact with me 📝
+### Contact me 📝
   
 <!--
 <a href="https://instagram.com/alv_delci" target="_blank">
