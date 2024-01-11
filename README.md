@@ -26,7 +26,6 @@
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/Vue-339933?style=for-the-badge&logo=vue.js&logoColor=white"/><br>
       <br><label>Database Management Systems</label><br>
       <img src="https://img.shields.io/badge/MongoDB-08540C?style=for-the-badge&logo=mongodb&logoColor=white"/>
       <img src="https://img.shields.io/badge/MySQL-FCC624?style=for-the-badge&logo=mysql&logoColor=black"/>
