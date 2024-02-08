@@ -1,6 +1,6 @@
 ### Hi, I'm Delcimario 👋
 
-- 🧘‍♂️ I'm a fullstack developer
+- 🧘‍♂️ I'm a Software Engineer
 - 👨‍💻 I’m currently working on Typescript, Node.js and ReactJS
 - 🚀 I’m currently learning Cloud Computing
 
@@ -25,7 +25,7 @@
       <img src="https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=express&logoColor=white"/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><br>
       <br><label>Database Management Systems</label><br>
       <img src="https://img.shields.io/badge/MongoDB-08540C?style=for-the-badge&logo=mongodb&logoColor=white"/>
       <img src="https://img.shields.io/badge/MySQL-FCC624?style=for-the-badge&logo=mysql&logoColor=black"/>
@@ -34,7 +34,7 @@
       <img src="https://img.shields.io/badge/Docker-1572B6?style=for-the-badge&logo=docker&logoColor=white"/>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
       <img src="https://img.shields.io/badge/prisma-563D7C?style=for-the-badge&logo=prisma&logoColor=white"/><br>
-      <br><label>Deploy</label><br>
+      <br><label>Deployment</label><br>
       <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white"/>
       <img src="https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white"/><br>
     </p>
