@@ -1,8 +1,8 @@
 ### Hi, I'm Delcimario 👋
 
-- 🧘‍♂️ I'm a Software Engineer
+- 🧘‍♂️ I'm a Software Developer and Cloud Engineer
 - 👨‍💻 I’m currently working on Typescript, Node.js and ReactJS
-- 🚀 I’m currently learning Cloud Computing
+- 🚀 I’m currently learning Cloud Computing (AWS, Azure, GCloud)
 
 <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 
