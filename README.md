@@ -35,10 +35,10 @@
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
       <img src="https://img.shields.io/badge/prisma-563D7C?style=for-the-badge&logo=prisma&logoColor=white"/><br>
       <br><label>Deployment</label><br>
-      <img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E.svg?style=for-the-badge&logo=Amazon&logoColor=white"/><br>
+      <!--<img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E.svg?style=for-the-badge&logo=Amazon&logoColor=white"/><br>-->
       <img src="https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white"/><br>
       <img src="https://img.shields.io/badge/Microsoft%20Azure-0080ff.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white"/><br>
-      <!--<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white"/>-->
+      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white"/>
     </p>
   </p>
 <p>
