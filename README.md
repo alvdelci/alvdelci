@@ -1,8 +1,8 @@
 ### Hi, I'm Delcimario 👋
 
 - 🧘‍♂️ I'm a Software Developer and Beginner Cloud Engineer
-- 👨‍💻 I’m currently working on Typescript, Node.js and Next.js
-- 🚀 I’m currently learning Cloud Computing (AWS, Azure, GCloud)
+- 👨‍💻 I’m currently working on Typescript, Node.js and Azure
+- 🚀 I’m currently learning Spring Boot
 
 <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 
@@ -21,12 +21,13 @@
       <img src="https://img.shields.io/badge/Typescript-0078D4?style=for-the-badge&logo=typescript&logoColor=white"/><br>
       <br><label>Frameworks and Libraries</label><br>
       <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+      <!--<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>-->
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
       <img src="https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=express&logoColor=white"/>
       <img src="https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><br>
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/Spring_Boot-6BAF40?style=for-the-badge&logo=spring&logoColor=white"/><br>
       <br><label>Database Management Systems</label><br>
       <img src="https://img.shields.io/badge/MongoDB-08540C?style=for-the-badge&logo=mongodb&logoColor=white"/>
       <img src="https://img.shields.io/badge/MySQL-FCC624?style=for-the-badge&logo=mysql&logoColor=black"/>
